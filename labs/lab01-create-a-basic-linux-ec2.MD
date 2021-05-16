@@ -33,6 +33,7 @@ If you're on Linux/Mac ssh client is already there
 ```console
 chmod 400 your-key-name.pem
 ```
+- The above Command is use to change ther permission of .pem file.
 - Paste the connection string in the command line and type yes when prompted. 
 
 
